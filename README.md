@@ -1,5 +1,8 @@
 # project_work
 Projects - for assessing my skills - for data science entry roles
+
+Most of the topics are part of AppliedAI(online course) assignments. I have done some additional work in some assignments. All the implementation are mine own and not plagiarized.
+
 01. cross_attention_bahdanau_attention_implementation: Implementing from scratch bahdanau attention mechanism for language translation. Implemented Encoder, Decoder, Cross-attention layers.
 02. eda_chisquare_confidenceinterval_haberman_dataset: EDA on haberman cancer dataset with chi-square test and confidence interval for giving support to observations made through several plots.
 03. segmentation_road_traffic: Segmenting Road Traffic using unet. Video: https://drive.google.com/file/d/1Ita9Pe53zS6KC6khZ4rmfw1GvLoq8g3N/view?usp=sharing
